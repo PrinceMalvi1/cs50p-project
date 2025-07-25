@@ -23,15 +23,15 @@ The Expense Tracker is a command-line application built using Python to help use
 ***
 **Technologies Used:**
 
-+Python standard libraries (json, datetime, os)
+-Python standard libraries (json, datetime, os)
 
-+pyfiglet for ASCII banner generation
+-pyfiglet for ASCII banner generation
 ***
 **How to run the program**
 
 Install pyfiglet if not already installed:
 
-+pip install pyfiglet
+-pip install pyfiglet
 
 **Run the program:**
 python expense_tracker.py
