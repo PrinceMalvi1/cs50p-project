@@ -67,3 +67,9 @@ Follow the on-screen instructions to:
 
 7.Save your data safely on exit.
 ***
+**File Structure**
+
+├── expense_tracker.py      # Main Python script
+├── expenses.json           # Data file for storing expenses 
+├── README.md               # Project documentation
+├── requirements.txt        # This file contains names of all pip-installable libraries required for my project.
