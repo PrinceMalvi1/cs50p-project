@@ -69,7 +69,7 @@ Follow the on-screen instructions to:
 ***
 **File Structure**
 
-├── expense_tracker.py      # Main Python script
-├── expenses.json           # Data file for storing expenses 
-├── README.md               # Project documentation
-├── requirements.txt        # This file contains names of all pip-installable libraries required for my project.
+├── expense_tracker.py      # Main Python script        
+├── expenses.json           # Data file for storing expenses        
+├── README.md               # Project documentation     
+├── requirements.txt        # This file contains names of all pip-installable libraries required for my project. 
