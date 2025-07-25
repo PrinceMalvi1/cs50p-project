@@ -69,8 +69,8 @@ Follow the on-screen instructions to:
 ***
 **File Structure**
 
-├── project.py              # Main Python script        
-├── expenses.json           # Data file for storing expenses                
-├── README.md               # Project documentation          
-├── requirements.txt        # This file contains names of all pip-installable libraries required for my project.     
-├── test_project.py         #This is the test file for my project. It contains test funtions, so when run (using 'pytest test_project.py') it checks a few functions of the project.py file.     
+├── project.py              - Main Python script        
+├── expenses.json           - Data file for storing expenses                
+├── README.md               - Project documentation          
+├── requirements.txt        - This file contains names of all pip-installable libraries required for my project.     
+├── test_project.py         -This is the test file for my project. It contains test funtions, so when run (using 'pytest test_project.py') it checks a few functions of the project.py file.     
