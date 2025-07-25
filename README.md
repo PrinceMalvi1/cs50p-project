@@ -4,7 +4,7 @@ Video Demo:  <URL HERE>
 Description:    
 The Expense Tracker is a command-line application built using Python to help users manage and monitor their daily expenses. It allows users to add, view, summarize, and delete expenses efficiently, while also saving the data in a local JSON file for persistence between sessions.
 
-Key Features:
+**Key Features:**
 
 🔐 User Welcome Interface: Personalized welcome banner using pyfiglet.
 
@@ -21,19 +21,19 @@ Key Features:
 💾 Save & Exit: Automatically saves data in expenses.json.
 
 
-Technologies Used:
+**Technologies Used:**
 
-Python standard libraries (json, datetime, os)
++Python standard libraries (json, datetime, os)
 
-pyfiglet for ASCII banner generation
++pyfiglet for ASCII banner generation
 
-How to run the program
+**How to run the program**
 
 Install pyfiglet if not already installed:
 
-pip install pyfiglet
++pip install pyfiglet
 
-Run the program:
+**Run the program:**
 python expense_tracker.py
 
 Follow the on-screen instructions to:
