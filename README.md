@@ -1,6 +1,6 @@
 # CS50P-Project: Expense Tracker 
 MY final project for the CS50P python course         
-Video Demo:  <URL HERE>   
+Video Demo:  <https://youtu.be/Lwbv_wC4gr4>   
 ## Description:    
 The Expense Tracker is a command-line application built using Python to help users manage and monitor their daily expenses. It allows users to add, view, summarize, and delete expenses efficiently, while also saving the data in a local JSON file for persistence between sessions.
 ***
