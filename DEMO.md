@@ -1,4 +1,4 @@
-# CS50 PROJECT DEMO      
+# **CS50 PROJECT DEMO**    
 ***
 **Project title:** Expense Tracker       
 **Name:** Prince Malvi      
